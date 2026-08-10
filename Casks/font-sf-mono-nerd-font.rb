@@ -9,7 +9,7 @@ cask "font-sf-mono-nerd-font" do
   desc "Monospaced variant of San Francisco designed by Apple"
   homepage "https://developer.apple.com/fonts"
 
-  depends_on macos: ">= :sierra"
+  depends_on macos: ">= :catalina"
   depends_on formula: "nerd-fonts-patcher"
 
   glob = "SF*Mono*.[ot]tf"
