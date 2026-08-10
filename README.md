@@ -5,7 +5,7 @@ Extra fonts with [Homebrew].
 Install
 -------
 ~~~ sh
-brew tap danielbayley/fonts
+brew tap Homebrewery/fonts
 brew cask install #font-token
 ~~~
 
